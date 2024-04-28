@@ -16,3 +16,13 @@ When the button is clicked, it retrieves the values entered by the user (initial
 It then calculates the total amount after the specified number of years using the formula for compound interest.
 Finally, it updates the result container with the calculated total amount.
 In summary, this code creates a simple investment calculator that calculates the future value of an investment based on the initial investment amount, annual interest rate, and the number of years the investment will be held.
+
+
+
+for Example user can given 
+Initial Investment     =  500000
+Annual Interest Rate   =  9%
+Number of Years        =  4 
+
+After 4 years, your investment will be worth $705790.81.  This is the Output of this User-given Input
+See In Output Page
